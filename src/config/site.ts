@@ -28,12 +28,12 @@ export const site = {
   shortName: "Harsh",
   role: "Data Analytics & AI Student",
   // Used for SEO <title>, og:title, etc.
-  title: "Harsh Kamat — Data Analytics, Data Science & AI Engineer",
+  title: "Harsh Kamat | Portfolio",
   // The canonical production URL (update after you deploy).
   url: "https://harshkamat.vercel.app",
   // Used for SEO description + og:description.
   description:
-    "Computer Science Engineering student specializing in Data Analytics, Data Science, Machine Learning and Artificial Intelligence. Building real-world data and AI solutions.",
+    "Portfolio showcasing projects in Data Analytics, Machine Learning, Artificial Intelligence, and Data Science, along with certifications, GitHub repositories, and resume.",
   keywords: [
     "Harsh Kamat",
     "Data Analytics",
