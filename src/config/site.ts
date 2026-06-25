@@ -30,7 +30,7 @@ export const site = {
   // Used for SEO <title>, og:title, etc.
   title: "Harsh Kamat — Data Analytics, Data Science & AI Engineer",
   // The canonical production URL (update after you deploy).
-  url: "https://harshkamat.dev",
+  url: "https://harshkamat.vercel.app",
   // Used for SEO description + og:description.
   description:
     "Computer Science Engineering student specializing in Data Analytics, Data Science, Machine Learning and Artificial Intelligence. Building real-world data and AI solutions.",
